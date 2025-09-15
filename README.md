@@ -12,8 +12,6 @@ This is a Netflix-inspired landing page clone built with HTML & CSS. It mimics t
 
 🔥 Trending Now Section displaying popular shows/movies (custom posters like Raid 2 and Squid Game Season 3).
 
-📱 Responsive UI for different screen sizes.
-
 🌐 Language Selector for English & Hindi.
 
 👨‍👩‍👧 Membership Form with email input and CTA button.
@@ -33,3 +31,8 @@ CSS3 – Styling, layout, animations, and responsiveness.
 Font Awesome – Icons.
 
 Google Fonts (Roboto) – Typography.
+
+
+⚠️ Note
+This project is currently optimized for laptop/desktop screens only.
+Mobile and tablet responsiveness will be added in a future update. 🚀
